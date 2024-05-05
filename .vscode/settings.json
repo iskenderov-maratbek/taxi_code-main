@@ -1,0 +1,13 @@
+{
+    "workbench.tree.indent": 15,
+    "workbench.list.mouseWheelScrollSensitivity": 1,
+    "editor.minimap.maxColumn": 120,
+    "editor.minimap.autohide": false,
+    "editor.minimap.enabled": true,
+    "editor.cursorStyle": "line",
+    "editor.wordWrap": "off",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 16,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
